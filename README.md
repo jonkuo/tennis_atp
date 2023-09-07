@@ -19,15 +19,9 @@ MatchStats are included where I have them. In general, that means 1991-present f
 There are some tour-level matches with missing stats. Some are missing because ATP doesn't have them. Others I've deleted because they didn't pass some sanity check (loser won 60% of points, or match time was under 20 minutes, etc). Also, Davis Cup matches are included in the tour-level files, but there are no stats for Davis Cup matches until the last few seasons.
 
 
-
-
-# My Project
-
-This project is based on [tennis_atp]((https://github.com/JeffSackmann/tennis_atp)),  It has been forked from the original repository to leverage the incredible work done to collect ATP tennis match data.
-
 ## Attribution
 
-This project uses data from the [tennis_atp]((https://github.com/JeffSackmann/tennis_atp)), created by [Jeff Sackmann]([https://github.com/original-author](https://github.com/JeffSackmann)). See license below.
+This project uses data from [tennis_atp]((https://github.com/JeffSackmann/tennis_atp)), created by [Jeff Sackmann]([https://github.com/original-author](https://github.com/JeffSackmann)). See license below.
 
 # License
 
