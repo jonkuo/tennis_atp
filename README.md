@@ -21,7 +21,7 @@ There are some tour-level matches with missing stats. Some are missing because A
 
 ## Attribution
 
-This project uses data from [tennis_atp]((https://github.com/JeffSackmann/tennis_atp)), created by [Jeff Sackmann]([https://github.com/original-author](https://github.com/JeffSackmann)). See license below.
+This project uses data from [tennis_atp](https://github.com/JeffSackmann/tennis_atp), created by [Jeff Sackmann](https://github.com/JeffSackmann). See license below.
 
 # License
 
