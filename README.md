@@ -18,30 +18,17 @@ MatchStats are included where I have them. In general, that means 1991-present f
 
 There are some tour-level matches with missing stats. Some are missing because ATP doesn't have them. Others I've deleted because they didn't pass some sanity check (loser won 60% of points, or match time was under 20 minutes, etc). Also, Davis Cup matches are included in the tour-level files, but there are no stats for Davis Cup matches until the last few seasons.
 
-# Doubles
 
-I've added tour-level doubles back to 2000. Filenames follow the convention atp_matches_doubles_yyyy.csv. I may eventually be able to add tour-level doubles from before 2000, as well as lower-level doubles for some years. Most of the columns are the same, though in a different order.
 
-Doubles updates are temporarily suspended as of late 2020.
 
-# Contributing
+# My Project
 
-If you find a bug, please file an issue, and be as specific as possible.
+This project is based on [tennis_atp]((https://github.com/JeffSackmann/tennis_atp)),  It has been forked from the original repository to leverage the incredible work done to collect ATP tennis match data.
 
-Feel free to correct bugs or fill in missing data via pull requests, but be aware that I will not merge PRs. But if that's the most convenient way for you to submit improvements to the data, that's fine; I can work with that.
+## Attribution
 
-If you'd like to contribute to the project, I post "help wanted" [issues](https://github.com/JeffSackmann/tennis_atp/issues), starting with a plea to fill in biographical data such as date of birth.
-
-Also, I encourage everyone to pitch in to the [Match Charting Project](https://github.com/JeffSackmann/tennis_MatchChartingProject) by charting pro matches. It's not a direct contribution to this repo, but it is a great way to improve the existing state of tennis data.
-
-# Attention
-
-Please read, understand, and abide by the license below. It seems like a reasonable thing to ask, given the hundreds of hours I've put into amassing and maintaining this dataset. Unfortunately, a few bad apples have violated the license, and when people do that, it makes me considerably less motivated to continue updating.
-
-Also, if you're using this for academic/research purposes (great!), take a minute and cite it properly. It's not that hard, it helps others find a useful resource, and let's face it, you should be doing it anyway.
+This project uses data from the [tennis_atp]((https://github.com/JeffSackmann/tennis_atp)), created by [Jeff Sackmann]([https://github.com/original-author](https://github.com/JeffSackmann)). See license below.
 
 # License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">Tennis databases, files, and algorithms</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.tennisabstract.com/" property="cc:attributionName" rel="cc:attributionURL">Jeff Sackmann / Tennis Abstract</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/JeffSackmann" rel="dct:source">https://github.com/JeffSackmann</a>.
-
-In other words: Attribution is required. Non-commercial use only. 
